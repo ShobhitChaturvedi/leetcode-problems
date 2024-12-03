@@ -97,4 +97,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0342-power-of-four) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
