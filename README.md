@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0198-house-robber](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
