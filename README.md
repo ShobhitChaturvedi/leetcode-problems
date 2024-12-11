@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0110-balanced-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
