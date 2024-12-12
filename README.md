@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -50,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
