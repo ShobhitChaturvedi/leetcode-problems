@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0342-power-of-four) |
+| [2427-first-letter-to-appear-twice](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
 |  |
 | ------- |
