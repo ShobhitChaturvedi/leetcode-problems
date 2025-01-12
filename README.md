@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
