@@ -112,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 ## Trie
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
