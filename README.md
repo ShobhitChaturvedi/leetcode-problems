@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [2427-first-letter-to-appear-twice](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
 |  |
