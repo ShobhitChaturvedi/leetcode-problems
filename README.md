@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2350-find-closest-number-to-zero](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2350-find-closest-number-to-zero) |
 ## Divide and Conquer
 |  |
