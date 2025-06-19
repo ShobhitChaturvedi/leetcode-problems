@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0792-binary-search) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
