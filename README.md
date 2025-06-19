@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0342-power-of-four) |
