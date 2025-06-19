@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0792-binary-search) |
 ## Math
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0371-sum-of-two-integers) |
@@ -126,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [2427-first-letter-to-appear-twice](https://github.com/ShobhitChaturvedi/leetcode-problems/tree/master/2427-first-letter-to-appear-twice) |
